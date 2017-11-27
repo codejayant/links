@@ -1,3 +1,3 @@
-1. <a href="https://codelabs.developers.google.com/" target="_blank">Google codelabs</a> for short courses on websites : https://codelabs.developers.google.com/
-2. <a href="https://httpstatuses.com/">Http Status Code</a> : https://httpstatuses.com/ 
-3. <a href="https://www.learnitmyway.com/">Blog and resources on programming</a> : https://www.learnitmyway.com/
+1. <strong>Google codelabs<strong> for short courses on websites : https://codelabs.developers.google.com/
+2. <strong>Http Status Code</strong> : https://httpstatuses.com/ 
+3. <strong>Blog and resources on programming</strong> : https://www.learnitmyway.com/
